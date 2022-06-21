@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "legkij-krem-sup-iz-shampinonov-so-slivkami.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "legkij-krem-sup-iz-shampinonov-so-slivkami-1.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "legkij-krem-sup-iz-shampinonov-so-slivkami-2.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
