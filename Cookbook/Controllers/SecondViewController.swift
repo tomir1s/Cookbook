@@ -67,7 +67,7 @@ class SecondViewController: UIViewController {
     @IBAction func didTapFavoriteButton(_ sender: Any) {
         dessert.isFavorite.toggle()
         updateFavoriteButtonImage()
-        let favoritesVC = FavoritesViewController()
+       
         // Update isFavorite for dessert by ID in desserts
         // найти индекс дессерта по айди дессерта
         if let index = desserts.firstIndex(where: { $0.id == dessert.id}) {
